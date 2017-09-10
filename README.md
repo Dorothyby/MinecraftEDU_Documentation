@@ -6,5 +6,6 @@ b) Monentan gibt es - ähnlich der Minecraft-Pocket-Edition überhaupt keine MOD
 c) die Lizenzbedingungen ( ein Office 365 Account für jeden Teilnehmer / Schüler) sind für viele schwierig einzurichten :-(
 In diesem Repository werden diue Features des "alten" MinecraftEdu dokumentiert zur Instpiration für die Entwicklung von Mods und Erweiterungen von Minetest, das als offenen und freie Plattform für die Arbeit in Bildungs-Kontexten und soziokulturellen Projekten wunderbar geeignet ist :-)
 
-Weiterführende Informationen: https://minecraft-de.gamepedia.com/Lernen_mit_Minecraft#Education_Edition
-Das "neue" MinecraftEDU: 
+Weiterführende Informationen: https://minecraft-de.gamepedia.com/Lernen_mit_Minecraft#Education_Edition  
+Das "neue" MinecraftEDU:   
+https://education.minecraft.net/
