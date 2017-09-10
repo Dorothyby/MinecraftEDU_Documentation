@@ -5,7 +5,11 @@ a) alle über die Jahre auf der Basis der "alten" JAVA-Version von Minecraft (bi
 b) Monentan gibt es - ähnlich der Minecraft-Pocket-Edition überhaupt keine MODS :-(
 c) die Lizenzbedingungen ( ein Office 365 Account für jeden Teilnehmer / Schüler) sind für viele schwierig einzurichten :-(
 In diesem Repository werden diue Features des "alten" MinecraftEdu dokumentiert zur Instpiration für die Entwicklung von Mods und Erweiterungen von Minetest, das als offenen und freie Plattform für die Arbeit in Bildungs-Kontexten und soziokulturellen Projekten wunderbar geeignet ist :-)
+![MinecraftEdu Menu](https://github.com/minetest4edu/MInecraftEDU_Documentation/blob/master/screenshots/MCEDU_0EinstellungenBefehleMenuNumbers2.jpg)
 
 Weiterführende Informationen: https://minecraft-de.gamepedia.com/Lernen_mit_Minecraft#Education_Edition  
 Das "neue" MinecraftEDU:   
 https://education.minecraft.net/
+
+vollstndige Dokumentation Minecraft-Edu (English): 
+https://wiki.education.minecraft.net/wiki/Getting_started#Start_using_MinecraftEdu
