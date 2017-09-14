@@ -12,8 +12,9 @@ Die Dokumentaion der einzelnen Features findet sich unter /Code in den entsprech
 https://github.com/minetest4edu/MInecraftEDU_Documentation/blob/master/3_Welteinstellungen/3.Welteinstellungen.md   
 
 Weiterführende Informationen: https://minecraft-de.gamepedia.com/Lernen_mit_Minecraft#Education_Edition    
-Das "neue" MinecraftEDU:   
-https://education.minecraft.net/
 
-vollständige Dokumentation Minecraft-Edu (English): 
+vollständige Dokumentation der "alten" Minecraft-Edu Edition (auf Java basierend, mit Mods, etc., entwickelt bis MinecraftEdu 1.7 Version 22) (English): 
 https://wiki.education.minecraft.net/wiki/Getting_started#Start_using_MinecraftEdu
+
+Das "neue" MinecraftEDU unter Microsoft weiterentwickelt, lauffähig nur noch unter Windows 10 und MacOSX, die Schüler benötigen eine Office 365 Lizenz):   
+https://education.minecraft.net/
