@@ -22,7 +22,7 @@ Lizenz: https://creativecommons.org/licenses/by/2.0/de/
 
 ![Minecraft-Basics-Sheet](https://github.com/minetest4edu/MinecraftEDU_Documentation/blob/master/screenshots/minecraftWorksheet.png)
 "Für alle, die neu in der Welt von Minecraft sind, lohnt sich ein Blick auf unser Minecraft-Basics-Sheet, auf dem alle wichtigen Elemente der Grundsteuerung und Grundmechanismen in Minecraft anschaulich erklärt werden. Die PDF-Datei gibt es hier zum Herunterladen (zum Speichern Rechtsklick -> Link/Ziel speichern unter..). Freigegeben unter Creative Commons CC-BY 2.0."
-http://minecraftbildung.de/2014/09/minecraft-basics-sheet-als-pdf-zum-download/
+https://github.com/minetest4edu/MinecraftEDU_Documentation/blob/master/screenshots/minecraftWorksheet.png
 ... erstellt von Max Strohmeyer und Julia Huke, http://minecraftbildung.de/ und http://spiellabor.org/ 2015
 Lizenz: https://creativecommons.org/licenses/by/2.0/de/
 
