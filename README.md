@@ -11,8 +11,9 @@ Die Dokumentaion der einzelnen Features findet sich unter /Code in den entsprech
 (z.B: für die 3. Welteinstellungen im Ordner 3_Welteinstellungen die Datei 3.Welteinstellungen.md
 https://github.com/minetest4edu/MInecraftEDU_Documentation/blob/master/3_Welteinstellungen/3.Welteinstellungen.md   
 
-Weiterführende Informationen: https://minecraft-de.gamepedia.com/Lernen_mit_Minecraft#Education_Edition 
+#Weiterführende Informationen: https://minecraft-de.gamepedia.com/Lernen_mit_Minecraft#Education_Edition 
 
+![MinecraftEdu-Basics-Sheet](https://github.com/minetest4edu/MinecraftEDU_Documentation/blob/master/minecraftEduWorksheet.png)
 Die "MedienbildnerInnen" Max Strohmeyer und Julia Huke haben ein 2-seitiges Überblicksblatt zum Download als PDF bereit gestellt:
 "Das MinecraftEdu-Basics-Sheet gibt einen Überblick auf die wichtigsten Elemente des integrierten Teacher Menüs, stellt neue Blöcke vor und zeigt, wie sich über den Client einfach ein Server starten lässt. Die PDF-Datei gibt es hier zum Herunterladen (zum Speichern Rechtsklick -> Link/Ziel speichern unter..). Freigegeben unter Creative Commons CC-BY 2.0
 http://minecraftbildung.de/2015/06/minecraftedu-basics-sheet-als-pdf-zum-download/
