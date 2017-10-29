@@ -25,7 +25,7 @@ Lizenz: https://creativecommons.org/licenses/by/2.0/de/
 https://github.com/minetest4edu/MinecraftEDU_Documentation/blob/master/screenshots/minecraftWorksheet.png
 ... erstellt von Max Strohmeyer und Julia Huke, http://minecraftbildung.de/ und http://spiellabor.org/ 2015
 Lizenz: https://creativecommons.org/licenses/by/2.0/de/
-
+ 
 
 vollständige Dokumentation der "alten" Minecraft-Edu Edition (auf Java basierend, mit Mods, etc., entwickelt bis MinecraftEdu 1.7 Version 22) (English): 
 https://wiki.education.minecraft.net/wiki/Getting_started#Start_using_MinecraftEdu
