@@ -39,10 +39,10 @@ http://tausend-medien.de/2016/minecraft-education-edition/
 
 ... seine letzten Updates zu dem Thema sind am Ende des Postings:
 
-#Update 1:
+**Update 1:**
 Inzwischen gibt es mehr Infos: So wird es eine geschlossene Betaphase ab Mai und eine offene ab Juni geben. Das Spiel wird erst einmal auf Windows 10 UND aktuellen Macs laufen.
 
-#Update 2:
+**Update 2:**
 MinecraftEdu kann man weder von Microsoft kaufen noch die Installer herunterladen.
 
 Die letzte stabile MinecraftEdu Version ist 1.7.10.22 stable. Wenn es Fragen dazu gibt, kann man sich gerne an mich wenden.
