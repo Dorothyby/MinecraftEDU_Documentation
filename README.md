@@ -31,7 +31,7 @@ vollständige Dokumentation der "alten" Minecraft-Edu Edition (auf Java basieren
 https://wiki.education.minecraft.net/wiki/Getting_started#Start_using_MinecraftEdu
 
 Das "neue" MinecraftEDU unter Microsoft weiterentwickelt, lauffähig nur noch unter Windows 10 und MacOSX, die Schüler benötigen eine Office 365 Lizenz):   
-https://education.minecraft.net/
+https://education.minecraft.net/support/knowledge-base/setting-up-office-365-education-accounts/
 
 Ulrich Tausend hat sich ausführlich mit der Veränderung von MinecraftEdu durch den Verkauf an Microsoft beschäftigt in seinem Blogposting
 "Minecraft: Education Edition und jetzt?"
