@@ -55,4 +55,8 @@ Verschiedene Modifikationen für diese Version habe ich hier gesammelt:
 https://www.dropbox.com/sh/p9f85r90x4giihk/AACzxcAylM0vPZEIiEUSO3FAa?dl=0
 CameraStudio, computercraftedu, worldedit, dynmap, SinglePlayerCommands
 
+Eine Zusammenstellung (2014) stellt tabellarisch die verschiedenen MInecraft-Versionen im Überblick dar:
+http://tausend-medien.de/2014/unterschiede-der-minecraft-versionen/
+
+
 
