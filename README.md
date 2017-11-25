@@ -32,3 +32,21 @@ https://wiki.education.minecraft.net/wiki/Getting_started#Start_using_MinecraftE
 
 Das "neue" MinecraftEDU unter Microsoft weiterentwickelt, lauffähig nur noch unter Windows 10 und MacOSX, die Schüler benötigen eine Office 365 Lizenz):   
 https://education.minecraft.net/
+
+Ulrich Tausend hat sich ausführlich mit der Veränderung von MinecraftEdu durch den Verkauf an Microsoft beschäftigt in seinem Blogposting
+"Minecraft: Education Edition und jetzt?"
+http://tausend-medien.de/2016/minecraft-education-edition/
+... seine letzten Updates zu dem Thema sind am Ende des Postings:
+#Update 1:
+Inzwischen gibt es mehr Infos: So wird es eine geschlossene Betaphase ab Mai und eine offene ab Juni geben. Das Spiel wird erst einmal auf Windows 10 UND aktuellen Macs laufen.
+
+#Update 2:
+MinecraftEdu kann man weder von Microsoft kaufen noch die Installer herunterladen.
+
+    Die letzte stabile MinecraftEdu Version ist 1.7.10.22 stable. Wenn es Fragen dazu gibt, kann man sich gerne an mich wenden.
+    Verschiedene Modifikationen für diese Version habe ich hier gesammelt: 
+    https://www.dropbox.com/sh/p9f85r90x4giihk/AACzxcAylM0vPZEIiEUSO3FAa?dl=0
+    CameraStudio, computercraftedu, worldedit, dynmap,   
+    SinglePlayerCommands
+
+
